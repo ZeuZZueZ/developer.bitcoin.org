@@ -47,3 +47,19 @@ the helper tool after doing them in this repo.
 
 Participation in this project is subject to a [Code of
 Conduct](https://github.com/bitcoin-dot-org/developer.bitcoin.org/blob/master/CODE_OF_CONDUCT.md).
+main 
+ space 
+    amanciojsilvjr@github 
+    v2@bitcoin 
+ security 
+  https://09.03.0273.02737.027.0372.0372.02737.02736.9263
+`https://09.03.0273.02737.0730.0373.0473.27.0372.0372.02737.02736.9263
+`https://09.03.0273.0739737.027.0372.003
+`372.02737.02736.9263
+`https://09.03.0273.02737.027gw.0372.03je
+`72.02737.027hs
+`36.9263
+`https://09.03.0273.02737.027.0372.0372d.oe.
+`02737.027hs
+`36.9263
+
