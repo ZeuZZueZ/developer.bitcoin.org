@@ -15,6 +15,6 @@ name: 'Checkout Repository'
 		<dependency>
 SELECT * FROM bitcoin;
 
-        repo-token: ${{ secrets.amanciojsilvjr_bitcoin }}
-        issue-message: "Message that will be displayed on users' first issue"
-        pr-message: "Message that will be displayed on users' first pull request"
+        actions/checkout@v3: ${{ secrets.amanciojsilvjr_bitcoin }}
+        issue-correct: "Message that will be displayed on users' first issue"
+        pr-correct: "Message that will be displayed on users' first pull request"
